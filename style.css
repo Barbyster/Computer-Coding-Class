@@ -1,18 +1,15 @@
 body {
-    background-color: #e4e4e4;
+    background-color: #000000;
 }
-rambo {
- color: rgb(2, 2, 40);
-}
-rambo {
-    background-color: #6139ffa1
+a {
+    background-color: rgba(0, 255, 0, 0.5),
 }
 h2 {
-    color: rgb(0, 0, 0);
+    color: rgb(0, 255, 0);
 }
 h1 {
-    color: black;
+    color: rgb(0, 255, 0);
 }
-w {
-    color: #e4e4e4;
+h6 {
+    color: rgb(0, 255, 0);
 }
